@@ -1,21 +1,3 @@
----
-cover:
-layout:
-  cover:
-    visible: true
-    site: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Welcome
 
 ## goshs
